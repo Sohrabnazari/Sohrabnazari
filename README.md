@@ -1,7 +1,6 @@
-### Greetings
+### Greetings,
 
-I'm Sohrab Nazari, a dedicated Frontend Developer. I hold a Bachelor's degree in Software Engineering and am currently honing my skills as a Front End Engineer.
-As well as being passionate about front-end development, I also have an interest in software engineering.
+I am Sohrab Nazari, a committed Frontend Developer and Software Engineering graduate. Currently, I am advancing my skills as a Front End Engineer. My passion lies in front-end development and exploring the vast domain of software engineering.
 
 ### Tech Stack
 
